@@ -4,7 +4,7 @@
   <title><![CDATA[PGMY Star Repos]]></title>
   <link href="http://PGMY.github.io/MyStarRepo/atom.xml" rel="self"/>
   <link href="http://PGMY.github.io/MyStarRepo/"/>
-  <updated>2014-02-26T13:09:40+09:00</updated>
+  <updated>2014-02-26T13:21:26+09:00</updated>
   <id>http://PGMY.github.io/MyStarRepo/</id>
   <author>
     <name><![CDATA[PGMY]]></name>
@@ -20,6 +20,17 @@
     <id>http://PGMY.github.io/MyStarRepo/blog/2014/02/26/github-jquery-repo-widget</id>
     <content type="html"><![CDATA[<div class="github-widget" data-repo="JoelSutherland/GitHub-jQuery-Repo-Widget"></div>
 
+
+<p>上記の用にGitHubのリポジトリをきれいに表示してくれる、jQueryのプラグインを発見しました♡</p>
+
+<p>記述方法は簡単に</p>
+
+<figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
+</pre></td><td class='code'><pre><code class=''><span class='line'>&lt;div class="github-widget" data-repo="JoelSutherland/GitHub-jQuery-Repo-Widget"&gt;&lt;/div&gt;</span></code></pre></td></tr></table></div></figure>
+
+
+<p>と、記載すればいいだけです。
+すてき！</p>
 ]]></content>
   </entry>
   
