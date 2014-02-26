@@ -4,7 +4,7 @@
   <title><![CDATA[PGMY Star Repos]]></title>
   <link href="http://PGMY.github.io/MyStarRepo/atom.xml" rel="self"/>
   <link href="http://PGMY.github.io/MyStarRepo/"/>
-  <updated>2014-02-26T13:28:09+09:00</updated>
+  <updated>2014-02-26T13:41:14+09:00</updated>
   <id>http://PGMY.github.io/MyStarRepo/</id>
   <author>
     <name><![CDATA[PGMY]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[UIView-TSExtension]]></title>
+    <link href="http://PGMY.github.io/MyStarRepo/blog/2014/02/26/uiview-tsextension/"/>
+    <updated>2014-02-26T13:29:01+09:00</updated>
+    <id>http://PGMY.github.io/MyStarRepo/blog/2014/02/26/uiview-tsextension</id>
+    <content type="html"><![CDATA[<iframe src="http://www.slideshare.net/slideshow/embed_code/31610956 " width="595" height="446" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC;border-width:1px 1px 0;margin-bottom:5px" allowfullscreen></iframe>
+
+
+<p></p>
+
+<div class="github-widget" data-repo="taketo1024/UIView-TSExtension"></div>
+
+
+
+
+<div class="github-widget" data-repo="taketo1024/UIView-TSExtension"></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[GitHubのリポジトリをきれいに表示してくれるjQueryプラグイン：GitHub-jQuery-Repo-Widget]]></title>
