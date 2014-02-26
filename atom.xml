@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[PGMY Star Repos]]></title>
   <link href="http://PGMY.github.io/MyStarRepo/atom.xml" rel="self"/>
   <link href="http://PGMY.github.io/MyStarRepo/"/>
-  <updated>2014-02-26T10:19:59+09:00</updated>
+  <updated>2014-02-26T10:24:53+09:00</updated>
   <id>http://PGMY.github.io/MyStarRepo/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[PGMY]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
