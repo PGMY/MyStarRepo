@@ -1,0 +1,15 @@
+---
+layout: post
+title: "ios-stats"
+date: 2014-02-27 17:59:07 +0900
+comments: true
+categories: iOS
+---
+
+iOSでメモリの利用状況などなどをリアルタイムで表示させてくれるライブラリ。
+
+<div class="github-widget" data-repo="shu223/Stats"></div>
+
+制作者さんのブログに詳しく説明があります。
+Qiitaにも投稿してくださってました。
+⇒[Instrumentsを使用せず、プログラムから空きメモリ量や使用中のメモリ量、CPU負荷を取得する](http://qiita.com/shu223/items/78af3e20b4d6cd18f8a6)
