@@ -4,7 +4,7 @@
   <title><![CDATA[PGMY Star Repos]]></title>
   <link href="http://PGMY.github.io/MyStarRepo/atom.xml" rel="self"/>
   <link href="http://PGMY.github.io/MyStarRepo/"/>
-  <updated>2014-03-03T15:58:49+09:00</updated>
+  <updated>2014-03-03T16:56:28+09:00</updated>
   <id>http://PGMY.github.io/MyStarRepo/</id>
   <author>
     <name><![CDATA[PGMY]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Webサービスの退会リンクや退会方法を教えてくれるjustdelete.me]]></title>
+    <link href="http://PGMY.github.io/MyStarRepo/blog/2014/03/03/justdeleteme/"/>
+    <updated>2014-03-03T16:53:51+09:00</updated>
+    <id>http://PGMY.github.io/MyStarRepo/blog/2014/03/03/justdeleteme</id>
+    <content type="html"><![CDATA[<p>ここでサービス稼働中
+⇒<a href="http://justdelete.me/">http://justdelete.me/</a></p>
+
+<div class="github-widget" data-repo="rmlewisuk/justdelete.me"></div>
+
+
+<p>Webサービスのわかりにくい退会方法がすぐにわかります。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[ミニマルなローカルストレージライブラリLOCKR]]></title>
