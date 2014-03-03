@@ -4,7 +4,7 @@
   <title><![CDATA[PGMY Star Repos]]></title>
   <link href="http://PGMY.github.io/MyStarRepo/atom.xml" rel="self"/>
   <link href="http://PGMY.github.io/MyStarRepo/"/>
-  <updated>2014-03-03T15:16:45+09:00</updated>
+  <updated>2014-03-03T15:58:49+09:00</updated>
   <id>http://PGMY.github.io/MyStarRepo/</id>
   <author>
     <name><![CDATA[PGMY]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[ミニマルなローカルストレージライブラリLOCKR]]></title>
+    <link href="http://PGMY.github.io/MyStarRepo/blog/2014/03/03/lockr/"/>
+    <updated>2014-03-03T15:50:07+09:00</updated>
+    <id>http://PGMY.github.io/MyStarRepo/blog/2014/03/03/lockr</id>
+    <content type="html"><![CDATA[<p>ローカルストレージを簡単に実装しやすくしてくれるミニマルなライブラリ。</p>
+
+<div class="github-widget" data-repo="tsironis/lockr"></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[SocketEdit]]></title>
