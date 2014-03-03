@@ -4,7 +4,7 @@
   <title><![CDATA[PGMY Star Repos]]></title>
   <link href="http://PGMY.github.io/MyStarRepo/atom.xml" rel="self"/>
   <link href="http://PGMY.github.io/MyStarRepo/"/>
-  <updated>2014-03-03T15:00:24+09:00</updated>
+  <updated>2014-03-03T15:10:14+09:00</updated>
   <id>http://PGMY.github.io/MyStarRepo/</id>
   <author>
     <name><![CDATA[PGMY]]></name>
@@ -14,11 +14,17 @@
 
   
   <entry>
-    <title type="html"><![CDATA[jQueryCLNDR]]></title>
+    <title type="html"><![CDATA[きれいなカレンダーが実装できるjQueryPlugin CLNDR.js]]></title>
     <link href="http://PGMY.github.io/MyStarRepo/blog/2014/03/03/jqueryclndr/"/>
     <updated>2014-03-03T09:30:55+09:00</updated>
     <id>http://PGMY.github.io/MyStarRepo/blog/2014/03/03/jqueryclndr</id>
-    <content type="html"><![CDATA[
+    <content type="html"><![CDATA[<div class="github-widget" data-repo="kylestetz/CLNDR"></div>
+
+
+<p>⇒<a href="http://kylestetz.github.io/CLNDR/">http://kylestetz.github.io/CLNDR/</a></p>
+
+<p>とりあえずメモ。
+あとで試してみようと思います。</p>
 ]]></content>
   </entry>
   
