@@ -4,7 +4,7 @@
   <title><![CDATA[PGMY Star Repos]]></title>
   <link href="http://PGMY.github.io/MyStarRepo/atom.xml" rel="self"/>
   <link href="http://PGMY.github.io/MyStarRepo/"/>
-  <updated>2014-03-03T15:10:14+09:00</updated>
+  <updated>2014-03-03T15:16:45+09:00</updated>
   <id>http://PGMY.github.io/MyStarRepo/</id>
   <author>
     <name><![CDATA[PGMY]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[SocketEdit]]></title>
+    <link href="http://PGMY.github.io/MyStarRepo/blog/2014/03/03/stackedit/"/>
+    <updated>2014-03-03T15:12:58+09:00</updated>
+    <id>http://PGMY.github.io/MyStarRepo/blog/2014/03/03/stackedit</id>
+    <content type="html"><![CDATA[<p>このブログを書くのに愛用しているサービス
+SocketEdit : <a href="https://stackedit.io/">https://stackedit.io/</a></p>
+
+<div class="github-widget" data-repo="benweet/stackedit"></div>
+
+
+<p>ソースコードも公開してる？ようです。
+中身確認していろいろカスタマイズしてみようかな・・・！</p>
+
+<p>日本語もOKで、DropBoxに対応しているのがすばらしいです。</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[きれいなカレンダーが実装できるjQueryPlugin CLNDR.js]]></title>
