@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Tag: jQuery | PGMY Star Repos]]></title>
+  <link href="http://PGMY.github.io/MyStarRepo/tags/jquery/atom.xml" rel="self"/>
+  <link href="http://PGMY.github.io/MyStarRepo/"/>
+  <updated>2014-03-03T15:00:24+09:00</updated>
+  <id>http://PGMY.github.io/MyStarRepo/</id>
+  <author>
+    <name><![CDATA[PGMY]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[GitHubのリポジトリをきれいに表示してくれるjQueryプラグイン：GitHub-jQuery-Repo-Widget]]></title>
+    <link href="http://PGMY.github.io/MyStarRepo/blog/2014/02/26/github-jquery-repo-widget/"/>
+    <updated>2014-02-26T13:08:11+09:00</updated>
+    <id>http://PGMY.github.io/MyStarRepo/blog/2014/02/26/github-jquery-repo-widget</id>
+    <content type="html"><![CDATA[<div class="github-widget" data-repo="JoelSutherland/GitHub-jQuery-Repo-Widget"></div>
+
+
+<p>上記の用にGitHubのリポジトリをきれいに表示してくれる、jQueryのプラグインを発見しました♡</p>
+
+<p>記述方法は簡単に</p>
+
+<p>```</p>
+
+<div class="github-widget" data-repo="JoelSutherland/GitHub-jQuery-Repo-Widget"></div>
+
+
+<p>```</p>
+
+<p>と、記載すればいいだけです。
+すてき！</p>
+
+<p>リンク：<a href="http://www.newmediacampaigns.com/blog/a-beautiful-jquery-github-widget">A Beautiful jQuery GitHub Widget</a></p>
+]]></content>
+  </entry>
+  
+</feed>

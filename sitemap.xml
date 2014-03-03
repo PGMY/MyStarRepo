@@ -2,7 +2,7 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://PGMY.github.io/MyStarRepo/blog/2014/02/26/github-jquery-repo-widget/</loc>
-        <lastmod>2014-02-26T13:46:01+09:00</lastmod>
+        <lastmod>2014-03-03T14:03:32+09:00</lastmod>
     </url>
     <url>
         <loc>http://PGMY.github.io/MyStarRepo/blog/2014/02/26/uiview-tsextension/</loc>
@@ -11,6 +11,10 @@
     <url>
         <loc>http://PGMY.github.io/MyStarRepo/blog/2014/02/27/ios-stats/</loc>
         <lastmod>2014-02-27T18:01:28+09:00</lastmod>
+    </url>
+    <url>
+        <loc>http://PGMY.github.io/MyStarRepo/blog/2014/03/03/jqueryclndr/</loc>
+        <lastmod>2014-03-03T09:30:55+09:00</lastmod>
     </url>
     <url>
         <loc>http://PGMY.github.io/MyStarRepo/assets/bootstrap/docs/about.html</loc>
@@ -34,7 +38,7 @@
     </url>
     <url>
         <loc>http://PGMY.github.io/MyStarRepo/assets/bootstrap/docs/</loc>
-        <lastmod>2014-02-27T18:01:28+09:00</lastmod>
+        <lastmod>2014-03-03T14:03:32+09:00</lastmod>
     </url>
     <url>
         <loc>http://PGMY.github.io/MyStarRepo/assets/bootstrap/docs/javascript.html</loc>
@@ -46,11 +50,11 @@
     </url>
     <url>
         <loc>http://PGMY.github.io/MyStarRepo/blog/archives/</loc>
-        <lastmod>2014-02-27T18:01:28+09:00</lastmod>
+        <lastmod>2014-03-03T14:03:32+09:00</lastmod>
     </url>
     <url>
         <loc>http://PGMY.github.io/MyStarRepo/</loc>
-        <lastmod>2014-02-27T18:01:28+09:00</lastmod>
+        <lastmod>2014-03-03T14:03:32+09:00</lastmod>
     </url>
     <url>
         <loc>http://PGMY.github.io/MyStarRepo/robots.txt</loc>
