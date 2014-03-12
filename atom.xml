@@ -4,7 +4,7 @@
   <title><![CDATA[PGMY Star Repos]]></title>
   <link href="http://PGMY.github.io/MyStarRepo/atom.xml" rel="self"/>
   <link href="http://PGMY.github.io/MyStarRepo/"/>
-  <updated>2014-03-03T17:19:21+09:00</updated>
+  <updated>2014-03-12T11:36:34+09:00</updated>
   <id>http://PGMY.github.io/MyStarRepo/</id>
   <author>
     <name><![CDATA[PGMY]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[チュートリアル画面をきれいに実装してくれるビューライブラリ]]></title>
+    <link href="http://PGMY.github.io/MyStarRepo/blog/2014/03/12/myblurintroductionview/"/>
+    <updated>2014-03-12T11:34:08+09:00</updated>
+    <id>http://PGMY.github.io/MyStarRepo/blog/2014/03/12/myblurintroductionview</id>
+    <content type="html"><![CDATA[<div class="github-widget" data-repo="MatthewYork/MYBlurIntroductionView"></div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Webサービスの退会リンクや退会方法を教えてくれるjustdelete.me]]></title>
