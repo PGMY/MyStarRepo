@@ -3,7 +3,8 @@ layout: post
 title: "GitHubのリポジトリをきれいに表示してくれるjQueryプラグイン：GitHub-jQuery-Repo-Widget"
 date: 2014-02-26 13:08:11 +0900
 comments: true
-categories: [jQuery,jQieryPlugin,JavaScript]
+category: jQuery
+tags: [jQuery,jQieryPlugin,JavaScript]
 ---
 
 <div class="github-widget" data-repo="JoelSutherland/GitHub-jQuery-Repo-Widget"></div>

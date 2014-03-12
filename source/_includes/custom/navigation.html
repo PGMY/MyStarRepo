@@ -11,11 +11,20 @@
 
         <div class="navbar-collapse collapse">
             <ul class="nav navbar-nav">
+                <li>
+                    <a href="http://pgmy.github.io/blog/">Blog</a>
+                </li>
+                <li>
+                    <a href="http://pgmy.github.io/blog/blog/archives/">Archives</a>
+                </li>
                 <li {% if page.navbar == 'Blog' %}class="active"{% endif %}>
-                    <a href="{{ root_url }}/">Blog</a>
+                    <a href="{{ root_url }}/">MyStarRepo</a>
                 </li>
                 <li {% if page.navbar == 'Archives' %}class="active"{% endif %}>
-                    <a href="{{ root_url }}/blog/archives">Archives</a>
+                    <a href="{{ root_url }}/blog/archives/">MyStarRepoArchives</a>
+                </li>
+                <li>
+                    <a href="http://pgmy.github.io/blog/about">About</a>
                 </li>
             </ul>
             <ul class="nav navbar-nav navbar-right">

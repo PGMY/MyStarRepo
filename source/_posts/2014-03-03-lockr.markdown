@@ -1,0 +1,12 @@
+---
+layout: post
+title: "ミニマルなローカルストレージライブラリLOCKR"
+date: 2014-03-03 15:50:07 +0900
+comments: true
+categories: JavaScript
+tags: [WebStrage,Wrapper]
+---
+
+ローカルストレージを簡単に実装しやすくしてくれるミニマルなライブラリ。
+
+<div class="github-widget" data-repo="tsironis/lockr"></div>
