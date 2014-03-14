@@ -4,7 +4,7 @@
   <title><![CDATA[PGMY Star Repos]]></title>
   <link href="http://PGMY.github.io/MyStarRepo/atom.xml" rel="self"/>
   <link href="http://PGMY.github.io/MyStarRepo/"/>
-  <updated>2014-03-12T11:36:34+09:00</updated>
+  <updated>2014-03-14T15:57:12+09:00</updated>
   <id>http://PGMY.github.io/MyStarRepo/</id>
   <author>
     <name><![CDATA[PGMY]]></name>
@@ -12,6 +12,18 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[FacebookのPaperのようなUIが実装できるライブラリ]]></title>
+    <link href="http://PGMY.github.io/MyStarRepo/blog/2014/03/14/hapaperviewcontroller/"/>
+    <updated>2014-03-14T15:55:36+09:00</updated>
+    <id>http://PGMY.github.io/MyStarRepo/blog/2014/03/14/hapaperviewcontroller</id>
+    <content type="html"><![CDATA[<div class="github-widget" data-repo="hebertialmeida/HAPaperViewController"></div>
+
+
+<p><img src="https://raw.github.com/hebertialmeida/HAPaperViewController/master/Paper/Images.xcassets/paper.gif" alt="Paper" /></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[チュートリアル画面をきれいに実装してくれるビューライブラリ]]></title>
